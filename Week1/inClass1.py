@@ -30,3 +30,4 @@ cmds.parent("Earth", "Earth_Ctrl")
 #use setAttr command to translate Z axis of “Earth_Ctrl” to "size" * 20.0
 cmds.setAttr("Earth_Ctrl.tz", size * 20.0)
 #use setAttr command to translate Z axis of “Moon_Ctrl” to "size" * 3.0
+# this is just to test
